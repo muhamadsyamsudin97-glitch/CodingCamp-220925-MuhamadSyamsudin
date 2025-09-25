@@ -1,1 +1,1 @@
-# CodingCamp-batch-muhamadsyamsudin
+# Mini Project Coding Camp
